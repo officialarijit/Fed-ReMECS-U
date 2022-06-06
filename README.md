@@ -8,4 +8,5 @@ Federated learning (FL) allows to develop a powerful shared prediction model whi
 
 
 This version is an upgraded on our former Fed-ReMECS approach. 
-# Fed-ReMECS: https://doi-org/10.1016/j.ymeth.2022.03.005
+# Fed-ReMECS: 
+https://doi-org/10.1016/j.ymeth.2022.03.005
